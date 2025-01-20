@@ -36,4 +36,14 @@ This project utilizes a number of powerful libraries and technologies to enable 
 - **python-dotenv**: A tool for managing environment variables and securely storing API keys.
 - **Git**: For version control and managing the project codebase.
 
+## ⚡**Screenshots**
+
+1. GroqSimple Agent
+![Screenshot (17)](https://github.com/user-attachments/assets/23e46d82-07b7-4a31-9724-79621cee4176)
+
+2. Financial Agent in Action & Stock Analyst Recommendations
+![Screenshot (22)](https://github.com/user-attachments/assets/076d1f5f-e123-43a1-bd74-ddb07c3bdbfc)
+
+![Screenshot (24)](https://github.com/user-attachments/assets/a7d7233f-434b-4c49-b2b3-7a3b977ed4de)
+
 ---
